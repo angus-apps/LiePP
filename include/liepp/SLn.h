@@ -16,7 +16,7 @@
 */
 
 #pragma once
-
+#include <cassert>
 #include "LieGroup.h"
 #include "eigen3/unsupported/Eigen/MatrixFunctions"
 
